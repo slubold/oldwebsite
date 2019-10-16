@@ -4,7 +4,7 @@ I'm a second-year Ph.D. student in statistics at the [University of Washington](
 
 ## Research
 
-I'm interested in statistical network models and their applications in social science. In the past I have worked with Clark Taylor, John Fricks,
+I'm interested in statistical network models and their applications in social science. 
 
 ## Publications
 
