@@ -1,10 +1,10 @@
 ## About
 
-I'm a second-year Ph.D. student in statistics at the [University of Washington](https://www.washington.edu/). I am advised by [Tyler McCormick](https://thmccormick.github.io/) (UW statistics) and [Arun Chandraskehar](https://web.stanford.edu/~arungc/)(Stanford Economics). I am supported by an [ARCS Fellowship](https://www.arcsfoundation.org).
+I'm a second-year Ph.D. student in statistics at the [University of Washington](https://www.washington.edu/). I am advised by [Tyler McCormick](https://thmccormick.github.io/) (UW statistics) and [Arun Chandraskehar](https://web.stanford.edu/~arungc/)  (Stanford Economics). I am supported by an [ARCS Fellowship](https://www.arcsfoundation.org).
 
 ## Research
 
-I'm interested in statistical network models and their applications in social science. 
+I'm interested in statistical network models and their applications in social science. In the past I have worked with Clark Taylor, John Fricks,
 
 ## Publications
 
