@@ -15,7 +15,7 @@ I'm interested in statistical network models and their applications in social sc
 
 [Google Scholar](https://scholar.google.com/citations?user=Ab-RAckAAAAJ&hl=en&oi=ao)
 
-1) "Formal Definitions of Conservative PDFs" 
+1) "Formal Definitions of Conservative PDFs"  
 **Shane Lubold** and Clark Taylor
 Submitted, Nov 2019
 
