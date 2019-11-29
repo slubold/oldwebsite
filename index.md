@@ -1,6 +1,6 @@
 ## About
 
-I'm a second-year Ph.D. student in statistics at the [University of Washington](https://www.washington.edu/). I am advised by [Tyler McCormick](https://thmccormick.github.io/) (UW statistics) and [Arun Chandraskehar](https://web.stanford.edu/~arungc/)  (Stanford Economics). I am supported by an [ARCS Fellowship](https://www.arcsfoundation.org).
+I'm a second-year Ph.D. student in statistics at the [University of Washington](https://www.washington.edu/). I am advised by [Tyler McCormick](https://thmccormick.github.io/) (UW statistics) and [Arun Chandraskehar](https://web.stanford.edu/~arungc/)  (Stanford Economics). Previously, I was a Fulbright Scholar at the University of Luxembourg, and before that I studied math at Arizona State. I am supported by an [ARCS Fellowship](https://www.arcsfoundation.org).
 
 ## Research
 
