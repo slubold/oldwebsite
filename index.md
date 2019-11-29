@@ -9,13 +9,15 @@ Previously, I was a Fulbright Scholar at the University of Luxembourg, and befor
 I'm interested in statistical network models and their applications in social science. 
 
 ## News
-1) November 28, 2019: We submitted "Formal Definitions of Conservative PDFs".
+1) November 28, 2019: We submitted "Formal Definitions of Conservative PDFs."
 
 ## Publications
 
 [Google Scholar](https://scholar.google.com/citations?user=Ab-RAckAAAAJ&hl=en&oi=ao)
 
-1) "Formal Definitions of Conservative PDFs", **Shane Lubold**, Clark Taylor. Submitted.
+1) "Formal Definitions of Conservative PDFs" 
+**Shane Lubold**, Clark Taylor
+Submitted, Nov 2019
 
 2) "Identifying Latent Space Geometry in Network Models Using Analysis of Curvature"  
 **Shane Lubold**, Arun Chandraekhar, and Tyler McCormick  
