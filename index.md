@@ -6,7 +6,7 @@ Previously, I was a Fulbright Scholar at the University of Luxembourg, and befor
 
 ## Research
 
-I'm interested in statistical network models and their applications in social science. 
+I'm interested in statistical network models and their applications in social science. I am also interested in MCMC methods, uncertainty quantification, random graphs, and random matrices.
 
 ## News
 1) November 28, 2019: We submitted "Formal Definitions of Conservative PDFs."
