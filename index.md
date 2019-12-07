@@ -20,5 +20,5 @@ I'm interested in statistical network models and their applications in social sc
 Submitted, Nov 2019
 
 2) "Identifying Latent Space Geometry in Network Models Using Analysis of Curvature"  
-**Shane Lubold**, Arun Chandraekhar, and Tyler McCormick  
+**Shane Lubold**, Arun Chandrasekhar, and Tyler McCormick  
 In Progress, 2019
