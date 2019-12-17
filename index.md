@@ -15,9 +15,9 @@ I'm interested in statistical network models and their applications in social sc
 
 [Google Scholar](https://scholar.google.com/citations?user=Ab-RAckAAAAJ&hl=en&oi=ao)
 
-1) "Formal Definitions of Conservative PDFs"  
+1)[Formal Definitions of Conservative PDFs](https://arxiv.org/pdf/1912.06780.pdf)  
 **Shane Lubold** and Clark Taylor   
-Submitted, Nov 2019. https://arxiv.org/pdf/1912.06780.pdf
+Submitted, Nov 2019. 
 
 2) "Identifying Latent Space Geometry in Network Models Using Analysis of Curvature"  
 **Shane Lubold**, Arun Chandrasekhar, and Tyler McCormick  
