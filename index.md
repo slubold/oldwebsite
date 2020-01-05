@@ -22,3 +22,7 @@ Submitted, Nov 2019.
 2) "Identifying Latent Space Geometry in Network Models Using Analysis of Curvature"  
 **Shane Lubold**, Arun Chandrasekhar, and Tyler McCormick  
 In Progress, 2019
+
+
+## Teaching 
+In the Fall of 2018, I was the TA for STAT 421: Applied Statistics and Experimental Design with Caren Marzban. In the Spring of 2019, I was a TA for STAT 390: Statistical methods in engineering and science.
