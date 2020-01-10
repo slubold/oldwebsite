@@ -25,4 +25,4 @@ In Progress, 2019
 
 
 ## Teaching 
-In the Fall of 2018, I was the TA for STAT 421: Applied Statistics and Experimental Design with Caren Marzban. In the Spring of 2019, I was a TA for STAT 390: Statistical methods in engineering and science with Caren Marzban. In the Winter of 2020, I am running a directed reading program on random graphs. Here are the [notes](Notes.pdf).
+In the Fall of 2018, I was the TA for STAT 421: Applied Statistics and Experimental Design with Caren Marzban. In the Spring of 2019, I was a TA for STAT 390: Statistical methods in engineering and science with Caren Marzban. In the Winter of 2020, I am running a directed reading program on random graphs. Here are the [notes](Random Graph Project Notes.pdf).
