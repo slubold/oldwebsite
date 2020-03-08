@@ -9,6 +9,10 @@ Previously, I was a Fulbright Scholar at the University of Luxembourg, and befor
 I'm interested in statistical network models and their applications in social science. I am also interested in MCMC methods, uncertainty quantification, random graphs, and random matrices.
 
 ## News
+\[3/27/20\]: I will be giving a talk at the 6th Annual Conference on Network Science and Economics at U Chicago.
+
+\[2/20/20\]: I gave a talk to the UW undergraduate statistics club entitled "Random Graphs and Parameter Estimation in Latent Space Models." 
+
 \[11/18/19\]: We submitted "Formal Definitions of Conservative PDFs."
 
 ## Publications
