@@ -11,7 +11,6 @@ I'm interested in statistical network models and their applications in social sc
 ## News
 [4/21/20\]: I will be giving a talk on parameter estimation in latent space graph models at the Joint Statistical Meetings!
 
-[6th Annual Conference on Network Science and Economics
 \[3/8/20\]: I am giving a talk on parameter estimation in latent space graph models at the [6th Annual Conference on Network Science and Economics](https://bfi.uchicago.edu/event/sixth-annual-conference-on-network-science-and-economics/#section2) at the University of Chicago. (**3/14: This conference has been cancelled.**)
 
 \[2/20/20\]: I gave a talk to the UW undergraduate statistics club on random graphs and parameter estimation in latent space models. 
