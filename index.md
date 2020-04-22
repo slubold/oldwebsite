@@ -9,7 +9,7 @@ Previously, I was a Fulbright Scholar at the University of Luxembourg, and befor
 I'm interested in statistical network models and their applications in social science. I am also interested in MCMC methods, uncertainty quantification, random graphs, and random matrices.
 
 ## News
-\[4/21/20\]: I will be giving a talk on parameter estimation in latent space graph models at the Joint Statistical Meetings!
+\[4/21/20\]: I will be giving a [talk][https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/AbstractDetails.cfm?abstractid=313471] on parameter estimation in latent space graph models at the Joint Statistical Meetings!
 
 \[3/8/20\]: I am giving a talk on parameter estimation in latent space graph models at the [6th Annual Conference on Network Science and Economics](https://bfi.uchicago.edu/event/sixth-annual-conference-on-network-science-and-economics/#section2) at the University of Chicago. (**3/14: This conference has been cancelled.**)
 
