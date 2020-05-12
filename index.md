@@ -28,7 +28,7 @@ Submitted, Nov 2019.
 
 2) "Identifying Latent Space Geometry in Network Models Using Analysis of Curvature"  
 **Shane Lubold**, Arun Chandrasekhar, and Tyler McCormick  
-In Progress, 2019
+In Progress, 2019.   
 [Project Website](slubold.github.io/LS_Classification)
 
 
