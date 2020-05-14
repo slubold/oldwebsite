@@ -9,7 +9,7 @@ Previously, I was a Fulbright Scholar at the University of Luxembourg, and befor
 I'm interested in statistical network models and their applications in social science. I am also interested in MCMC methods, uncertainty quantification, random graphs, and random matrices.
 
 ## News
-\[5/13/20\]: Arun Chandrasekhar will be presenting our work on parameter estimation in latent space graph models at the [Workshop on Estimation of Network Processes and Information Diffusion at Northwestern](https://www.ideal.northwestern.edu/events/estimation-of-network-processes-and-information-diffusion/)!
+\[5/13/20\]: Arun Chandrasekhar will be presenting our work on parameter estimation in latent space graph models at the [Workshop on Estimation of Network Processes and Information Diffusion](https://www.ideal.northwestern.edu/events/estimation-of-network-processes-and-information-diffusion/) at Northwestern!
 
 \[4/21/20\]: I will be giving a [talk at the Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/AbstractDetails.cfm?abstractid=313471) on parameter estimation in latent space graph models!
 
