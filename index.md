@@ -2,13 +2,11 @@
 
 I'm a second-year Ph.D. student in statistics at the [University of Washington](https://www.washington.edu/). I am supported by an [ARCS Fellowship](https://www.arcsfoundation.org). Previously, I was a Fulbright Scholar at the University of Luxembourg, and before that I studied math at Arizona State.
 
-I am interested in network estimation problems, MCMC methods, and Fréchet analysis. I am advised by [Tyler McCormick](https://thmccormick.github.io/) (UW Statistics) and [Arun Chandrasekhar](https://web.stanford.edu/~arungc/)  (Stanford Economics). I am also working with Yen-Chi Chen.
+I am interested in network estimation problems, MCMC methods, and Fréchet analysis. I am advised by [Tyler McCormick](https://thmccormick.github.io/) (UW Statistics) and [Arun Chandrasekhar](https://web.stanford.edu/~arungc/)  (Stanford Economics).
 
 
 
 ## News
-\[6/13:20\]: I passed my research prelim. My topic was Fréchet analysis
-
 \[5/13/20\]: Arun Chandrasekhar will be presenting our work on parameter estimation in latent space graph models at the [Workshop on Estimation of Network Processes and Information Diffusion](https://www.ideal.northwestern.edu/events/estimation-of-network-processes-and-information-diffusion/) at Northwestern!
 
 \[4/21/20\]: I will be giving a [talk at the Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2020/onlineprogram/AbstractDetails.cfm?abstractid=313471) on parameter estimation in latent space graph models!
